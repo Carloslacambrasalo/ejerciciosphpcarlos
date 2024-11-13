@@ -6,7 +6,6 @@ function esPrimo($numero) {
     }
     return true;
 }
-
 function primosHastaUnMillon() {
     $primos = [];
     for ($i = 1; $i <= 1000000; $i++) {
