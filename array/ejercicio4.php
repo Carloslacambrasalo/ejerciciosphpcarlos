@@ -1,9 +1,3 @@
-<php
-    \*
-    Borrar un elemento específico de un array numérico: 
-    Crea un array con los nombres de 5 colores. Borra el segundo color del array y muestra el array actualizado.
-    *\
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
